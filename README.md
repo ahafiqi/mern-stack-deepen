@@ -1,1 +1,1 @@
-# mern-deepen
+# mern-stack-deepen
